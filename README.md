@@ -7,6 +7,7 @@ Initially the examples here will simply uses `STM32MP157D-DK1` board but the goa
 
 Such as:
 
+ * [STM32-Computer](https://github.com/DanielMartensson/STM32-Computer)
  * [Watermelon-Wine-1A](https://github.com/DanielMartensson/Watermelon-Wine-1A)
 
 # Yocto ST-STM32MP Quick Start
