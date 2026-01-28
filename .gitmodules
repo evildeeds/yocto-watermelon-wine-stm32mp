@@ -13,3 +13,11 @@
 [submodule "layers/meta-st/meta-st-stm32mp"]
 	path = layers/meta-st/meta-st-stm32mp
 	url = https://github.com/STMicroelectronics/meta-st-stm32mp.git
+[submodule "layers/meta-st/meta-st-stm32mp-addons"]
+	path = layers/meta-st/meta-st-stm32mp-addons
+	url = https://github.com/STMicroelectronics/meta-st-stm32mp-addons.git
+	branch = scarthgap
+[submodule "layers/meta-watermelon-wine-stm32mp"]
+	path = layers/meta-watermelon-wine-stm32mp
+	url = https://github.com/evildeeds/meta-watermelon-wine-stm32mp.git
+	branch = scarthgap

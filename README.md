@@ -59,6 +59,8 @@ you may proceed anyway but make sure you have the
 
 ```bash
 DISTRO=${DISTRO} MACHINE=${MACHINE} source layers/meta-st/meta-st-scripts/envsetup.sh --no-ui
+bitbake-layers add-layer ../layers/meta-st/meta-st-stm32mp-addons
+bitbake-layers add-layer ../layers/meta-watermelon-wine-stm32mp
 ```
 
 ## Yocto Image Build
